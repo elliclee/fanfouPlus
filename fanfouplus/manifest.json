@@ -1,0 +1,16 @@
+{
+   "options_page": "options.html",
+   "browser_action": {
+      "default_icon": "icons/icon-48.png"
+   },
+   "description": "饭否 plus",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "48": "icons/icon-48.png",
+      "16": "icons/icon-16.png"
+   },
+   "name": "饭否 plus",
+   "permissions": [ "tabs" ],
+   "version": "0.0.1.0",
+   "manifest_version": 2
+}
